@@ -1,0 +1,30 @@
+# Build results
+/bin/
+/obj/
+
+# NuGet Packages
+/packages/
+*.nupkg
+*.snupkg
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.csproj.user
+
+# Logs and temporary files
+*.log
+*.tlog
+*.cache
+
+# Publish results
+/publish/
+/out/
+/artifacts/
+
+# Test Results
+/TestResults/
+/*.TestResult.xml
